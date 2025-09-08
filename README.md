@@ -1,6 +1,5 @@
 # 🎲 Jogo do Número Secreto
 
-**Descrição:**  
 Jogo de adivinhação de números desenvolvido com **HTML**, **CSS** e **JavaScript**.  
 O objetivo é descobrir o número secreto gerado aleatoriamente pelo sistema, com até **100 tentativas**.  
 O jogo informa se o palpite está **acima** ou **abaixo** do número secreto e permite reiniciar usando o botão **"Novo Jogo"**.
