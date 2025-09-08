@@ -4,6 +4,9 @@ Jogo de adivinhação de números desenvolvido com **HTML**, **CSS** e **JavaScr
 O objetivo é descobrir o número secreto gerado aleatoriamente pelo sistema, com até **100 tentativas**.  
 O jogo informa se o palpite está **acima** ou **abaixo** do número secreto e permite reiniciar usando o botão **"Novo Jogo"**.
 
+<img width="1919" height="923" alt="jogo-do-numero-secreto" src="https://github.com/user-attachments/assets/6e7256e1-ec91-4327-885a-78d6d0751d08" />
+
+
 ---
 
 ## 🚀 Funcionalidades Principais
